@@ -1,0 +1,28 @@
+{
+  "authors": {
+    "猫笔叨的读后感专区": {
+      "platform": "wechat",
+      "biz_id": "MzkwNTgzOTU3NA==",
+      "name": "猫笔叨的读后感专区",
+      "avatar": "http://mmbiz.qpic.cn/mmbiz_png/dXyOp8uibk9xiaKQkFyZwM7mqdicIZozvbCfOQzBfL8B0HS43J6A72uiaicy2w5ocEq0MvGGQfT1dMcoMLqKQmxYmZg/0?wx_fmt=png",
+      "description": "",
+      "first_url": "https://mp.weixin.qq.com/s/ewprEewwzg22mhNyRM2uow",
+      "path": "articles\\猫笔叨的读后感专区",
+      "created_at": "2026-04-20T16:08:43.111580",
+      "last_crawl": "2026-04-28T15:10:09.768467",
+      "article_count": 2,
+      "status": "active"
+    },
+    "语和言": {
+      "platform": "wechat",
+      "name": "语和言",
+      "first_url": "https://mp.weixin.qq.com/s/SGbV1Sd2T4urp8yhKU0d8Q",
+      "path": "articles/语和言",
+      "created_at": "2026-04-25T17:04:37.219057",
+      "last_crawl": "2026-04-25T17:04:37.219057",
+      "article_count": 0,
+      "status": "active"
+    }
+  },
+  "version": "1.0"
+}
